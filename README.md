@@ -24,5 +24,5 @@ for ios-->
 for android-->
 **currently i am facing some problem for uploading my apk file in git hub till than you can go for steps below..**
 - you can personally create apk using flutter and just by using (flutter build apk --release  for android) command in vs code terminal 
-- or you can dm me -- 7456068318 or bhattlokesh440@gmail.com
+- or you can dm me I WILL SHARE THE APK TO YOU-- 7456068318 or bhattlokesh440@gmail.com
 
