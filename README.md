@@ -17,7 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 if you want to edit or make some anychanges in the project you can perform it by fluttter coding knowledge.
-
+-download flutter and android studio.
+-setup it
+-edit as you want 
+-then in terminal type >>>     flutter build apk --release  for android
 
 but if you are not a coder dont worry..
-you have to simply go to output/flutter output/app_release.apk for .apk file 
+
+
