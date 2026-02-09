@@ -6,15 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+HIEE....
 
 if you want to edit or make some anychanges in the project you can perform it by fluttter coding knowledge.
 -download flutter and android studio.
@@ -22,6 +14,15 @@ if you want to edit or make some anychanges in the project you can perform it by
 -edit as you want 
 -then in terminal type >>>     flutter build apk --release  for android
 
-but if you are not a coder dont worry..
 
+but if you are NOT A CODE dont worry..
+
+for ios--> 
+-goto Releases / v1.0 in home github page of my repository.
+-then you will see FlutteripaEXport.ipa file just download it and then you can use any ipa downloader website to download ipa files your ios  (iphone/ipad).
+
+for android-->
+**currently i am facing some problem for uploading my apk file in git hub till than you can go for steps below..**
+- you can personally create apk using flutter and just by using (flutter build apk --release  for android) command in vs code terminal 
+- or you can dm me -- 7456068318 or bhattlokesh440@gmail.com
 
